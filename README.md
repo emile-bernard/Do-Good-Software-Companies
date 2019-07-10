@@ -4,14 +4,9 @@ Some of the Do-Good software companies I could find.
 Human side of the software
 
 ## Table of Contents
-* [Requirements](#requirements)
-* [Prerequisites](#prerequisites)
-* [Training](#training)
-* [Validation](#validation)
-* [Pre-trained model](#pre-trained-model)
-* [C++ demo](#cpp-demo)
-* [Python demo](#python-demo)
-* [Citation](#citation)
+* [Application areas](#application areas)
+* [Environmental Protection](#environmental protection)
+
 
 ## Application areas
 
