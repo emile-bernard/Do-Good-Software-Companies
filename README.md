@@ -33,7 +33,9 @@ Heat Seek: Heat Seek sensors let you quickly and easily document the temperature
 ## Social development
 
 ## Reduction of accidents at work
+
 ## Preservation of the autonomy of the aging population
+
 ## Contribution and protection of diversity in technology: Diversity of opinion, gender, language …
 
 ## Feeding the poor
@@ -136,7 +138,8 @@ Rafiqi: A matching tool that leverages artificial intelligence to connect refuge
 
 ## Homeless
 Solar-powered tent: Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
-Crime prevention
+
+## Crime prevention
 Ring: 50% drop in neighborhood crimes thanks to the smart doorbells like Ring (according to an LAPD conducted study).
 
 Humanitarian Open Street Map: Open, free map data for humanitarian aid and development.
@@ -178,14 +181,13 @@ Skillist: A more effective and inclusive way to hire.
 
 
 ## Links
-
-8  Surprising Ways Computer Science Benefits Society [2018 & Beyond], https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/
-17 Ways Software Made the World a Better Place in 2017, https://www.capterra.com/infographics/17-ways-software-made-world-better-place
-A selection of projects, organisations and useful tools for social-impact tech. https://github.com/TechforgoodCAST/awesome-techforgood
-Blue Ridge Labs, New York, NY - incubator for tech for good ventures in NYC. https://labs.robinhood.org/alumni/
-Liberte Living Lab, Paris, France - collaborative workspace for tech, civic and social innovation.
+- 8  Surprising Ways Computer Science Benefits Society [2018 & Beyond], https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/
+- 17 Ways Software Made the World a Better Place in 2017, https://www.capterra.com/infographics/17-ways-software-made-world-better-place
+- A selection of projects, organisations and useful tools for social-impact tech. https://github.com/TechforgoodCAST/awesome-techforgood
+- Blue Ridge Labs, New York, NY - incubator for tech for good ventures in NYC. https://labs.robinhood.org/alumni/
+- Liberte Living Lab, Paris, France - collaborative workspace for tech, civic and social innovation.
 https://www.liberte.paris/projetsia
-Top 25 Ideas https://www.govtech.com/local/25-Tech-Ideas-that-Might-Solve-a-Community-Problem-.html
+- Top 25 Ideas https://www.govtech.com/local/25-Tech-Ideas-that-Might-Solve-a-Community-Problem-.html
 
 
 
