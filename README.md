@@ -1,7 +1,7 @@
-# Do-Good-Software-Companies-
+# Do-Good-Software-Companies
 Some of the Do-Good software companies I could find.
 
-Human side of the software
+# Human side of the software
 
 ## Table of Contents
 * [Application areas](#application areas)
