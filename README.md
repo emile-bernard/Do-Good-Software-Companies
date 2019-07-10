@@ -161,10 +161,13 @@ Botler AI (MTL): Prevent & fight sexual misconduct. Botler AI's multi-pronged ap
 
 ## Economic development
 
-Increase in yields
-Better inventory management
-Reduction of losses and manufacturing defects
-Increase in profits
+## Increase in yields
+
+## Better inventory management
+
+## Reduction of losses and manufacturing defects
+
+## Increase in profits
 - 20% growth in number of shopping app downloads in the first half of 2017, compared to the first half of 2016.
 
 ## Help for small businesses
@@ -174,27 +177,12 @@ LightSpeed (MTL): This cutting-edge retail platform makes sales and manages your
 
 ## Bankruptcy
 Bankruptcy: Can relieve your debt. Nonprofit helps you file for bankruptcy for free, guiding you every step of the way.
-Hiring
+
+## Hiring
 Skillist: A more effective and inclusive way to hire.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Links
+## Links
 
 8  Surprising Ways Computer Science Benefits Society [2018 & Beyond], https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/
 17 Ways Software Made the World a Better Place in 2017, https://www.capterra.com/infographics/17-ways-software-made-world-better-place
