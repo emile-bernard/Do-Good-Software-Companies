@@ -84,7 +84,7 @@ Some of the Do-Good software companies I could find.
 **Arctic Fox AI (MTL)**: Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
 
 ## Mental health
-Chayn DIY Online Safety Guide: Open source guide to help protect online accounts against harassment and stalkers.
+**Chayn DIY Online Safety Guide**: Open source guide to help protect online accounts against harassment and stalkers.
 
 **Woebot**: Woebot is one of the first chatbots of its kind, using artificial intelligence to talk to you, help improve your mood, and even alleviate symptoms of depression.
 
