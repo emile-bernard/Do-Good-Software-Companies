@@ -16,7 +16,7 @@ Some of the Do-Good software companies I could find.
 * [Feeding The Poor](#feeding-the-poor)
 * [Social Changes](#social-changes)
 * [Fund Raising](#fund-raising)
-* [Social Benefits](#social -benefits)
+* [Social Benefits](#social-benefits)
 * [Health](#health)
 * [Mental Health](#mental-health)
 * [Childcare](#childcare)
