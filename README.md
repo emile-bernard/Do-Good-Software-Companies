@@ -88,14 +88,14 @@ Some of the Do-Good software companies I could find.
 ## Social Benefits
 **Audacious Inquiry**: Coding for social welfare. Audacious only takes on projects that help others, such as projects that involve health care, promote the arts, and improve education.
 
-**Azavea**: maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
+**Azavea**: Maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
 
 **OfficeVibe (MTL)**: A simple way to measure employee satisfaction, while providing actionable tips for a better workplace. An innovative solution for boosting corporate growth!
 
 ## Health
-**Open Bionics**: open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
+**Open Bionics**: Open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 
-**Wayfindr**: open standard of audio navigation for vision impaired people (+ demo iOS app).
+**Wayfindr**: Open standard of audio navigation for vision impaired people (+ demo iOS app).
 
 **Paperfuge**: This paper device, which only costs 20 cents to make, can help scientists and doctors diagnose diseases like malaria and HIV within minutes — no electricity required.
 
@@ -125,7 +125,7 @@ Some of the Do-Good software companies I could find.
 
 **Cognitive ToyBox**: Game-based assessment platform for early childhood.
 
-**WikiHouse**: an open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
+**WikiHouse**: An open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
 
 **Paper Airplanes (PA)**: A nonprofit that uses video conferencing technology to provide free, peer-to-peer language and professional skills instruction to young adults and teens affected by conflict in the Middle East and North Africa.
 
