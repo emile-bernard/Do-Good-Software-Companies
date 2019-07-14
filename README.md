@@ -11,17 +11,17 @@ Some of the Do-Good software companies I could find.
 * [Decrease In Energy Consumption](#decrease-in-energy-consumption)
 * [Social Development](#social-development)
 * [Reduction Of Accidents At Work](#reduction-of-accidents-at-work)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
-* [ ](#-)
+* [Preservation Of The Autonomy In The Aging Population](#preservation-of-the-autonomy-in-the-aging-population)
+* [Contribution And Protection Of Diversity In Technology: Diversity Of Opinion, Gender, Language …](#contribution-and-protection-of-diversity-in-technology:-diversity-of-opinion,-gender,-language-…)
+* [Feeding The Poor](#feeding-the-poor)
+* [Social Changes](#social-changes)
+* [Fund Raising](#fund-raising)
+* [Social Benefits](#social -benefits)
+* [Health](#health)
+* [Mental Health](#mental-health)
+* [Childcare](#childcare)
+* [Arts And Culture](#arts-and-culture)
+* [Education](#education)
 * [Disaster Assistance](#disaster-assistance)
 * [Refugees](#refugees)
 * [Homeless](#homeless)
@@ -35,6 +35,7 @@ Some of the Do-Good software companies I could find.
 * [Help Small Businesses](#help-small-businesses)
 * [Bankruptcy](#bankruptcy)
 * [Hiring](#hiring)
+* [Links](#links)
 
 ## Application Areas
 
@@ -60,7 +61,7 @@ Some of the Do-Good software companies I could find.
 
 ## Reduction Of Accidents At Work
 
-## Preservation Of The Autonomy Of The Aging Population
+## Preservation Of The Autonomy In The Aging Population
 
 ## Contribution And Protection Of Diversity In Technology: Diversity Of Opinion, Gender, Language …
 
