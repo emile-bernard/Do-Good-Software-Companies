@@ -4,17 +4,43 @@ Some of the Do-Good software companies I could find.
 # Human side of the software
 
 ## Table of Contents
-* [Application areas](#application-areas)
+* [Application Areas](#application-areas)
+* [Better Management Of Natural Resources](#better-management-of-natural-resources)
+* [Pollution Reduction](#pollution-reduction)
 * [Environmental Protection](#environmental-protection)
+* [Decrease In Energy Consumption](#decrease-in-energy-consumption)
+* [Social Development](#social-development)
+* [Reduction Of Accidents At Work](#reduction-of-accidents-at-work)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [ ](#-)
+* [Disaster Assistance](#disaster-assistance)
+* [Refugees](#refugees)
+* [Homeless](#homeless)
+* [Crime Prevention](#crime-prevention)
+* [Legal](#legal)
+* [Economic Development](#economic-development)
+* [Increase In Yields](#increase-in-yields)
+* [Better Inventory Management](#better-inventory-management)
+* [Reduction Of Losses And Manufacturing Defects](#reduction-of-losses-and-manufacturing-defects)
+* [Increase In Profits](#increase-in-profits)
+* [Help Small Businesses](#help-small-businesses)
+* [Bankruptcy](#bankruptcy)
+* [Hiring](#hiring)
 
+## Application Areas
 
-## Application areas
+## Better Management Of Natural Resources
 
-## Environmental Protection
-
-## Better management of natural resources
-
-## Pollution reduction
+## Pollution Reduction
 **Rally Software**: Greening up the IT industry. Rally wants to become a model in making the IT industry be greener. It is benchmarking its "waste per employee" to compare to other companies and industries.
 
 **Airinov**: The drone to optimize fertilizers.
@@ -24,26 +50,26 @@ Some of the Do-Good software companies I could find.
 
 **Nectar (MTL)**: IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
 
-## Decrease in energy consumption
+## Decrease In Energy Consumption
 **Heat Seek**: Heat Seek sensors let you quickly and easily document the temperature in your home.
 
 - 750 000 homeowners saved power during the 2017 Solar Eclipse, thanks to the increased availability of smart thermostats like Nest, which reduced energy demand by 700MW.
 
 
-## Social development
+## Social Development
 
-## Reduction of accidents at work
+## Reduction Of Accidents At Work
 
-## Preservation of the autonomy of the aging population
+## Preservation Of The Autonomy Of The Aging Population
 
-## Contribution and protection of diversity in technology: Diversity of opinion, gender, language …
+## Contribution And Protection Of Diversity In Technology: Diversity Of Opinion, Gender, Language …
 
-## Feeding the poor
+## Feeding The Poor
 **Rescuing Leftover Cuisine**: Helping the hungry by rescuing and donating leftover food to homeless shelters.
 
 **Propel**: Food stamps, a $70 billion program that reaches 45 million Americans.
 
-## Social changes
+## Social Changes
 **Change.org**: Serious work with Internet petitions. Change.org is an Internet petition platform.
 
 **Smart Elect**: SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
@@ -52,7 +78,7 @@ Some of the Do-Good software companies I could find.
 
 **The Toolbox**: Curated list of digital tools for humanitarian work.
 
-## Fund raising
+## Fund Raising
 **NetworkForGood**: Reach your fundraising goals with a powerful, all-in-one donor management and fundraising platform.
 
 - 62% of donors in North America prefer to donate money online compared to other methods.
@@ -61,7 +87,7 @@ Some of the Do-Good software companies I could find.
 
 **CharityBase**: A comprehensive database of 350,000 charities + an open source API.
 
-## Social benefits
+## Social Benefits
 **Audacious Inquiry**: Coding for social welfare. Audacious only takes on projects that help others, such as projects that involve health care, promote the arts, and improve education.
 
 **Azavea**: maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
@@ -83,7 +109,7 @@ Some of the Do-Good software companies I could find.
 
 **Arctic Fox AI (MTL)**: Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
 
-## Mental health
+## Mental Health
 **Chayn DIY Online Safety Guide**: Open source guide to help protect online accounts against harassment and stalkers.
 
 **Woebot**: Woebot is one of the first chatbots of its kind, using artificial intelligence to talk to you, help improve your mood, and even alleviate symptoms of depression.
@@ -93,7 +119,7 @@ Some of the Do-Good software companies I could find.
 ## Childcare
 **Wiggle Room**: Childcare shouldn’t be a sink-or-swim issue. Wiggle Room lets you capture, organize, and activate your trusted network of family and friends with the click of a button.
 
-## Arts and culture
+## Arts And Culture
 **S.E.E.D. (MTL)**: Using AI, art, and academia for art therapy.
 
 ## Education
@@ -114,7 +140,7 @@ Some of the Do-Good software companies I could find.
 - 23% of the US population has used 16+ free tech resources at a local library.
 - 15B downloads of education apps from the Apple Store recorded, allowing users to learn from their personal devices.
 
-## Disaster assistance
+## Disaster Assistance
 **Sadetsky’s map**: A Hacker Helped The Coast Guard Rescue Victims Of Hurricane Harvey. Coast Guard utilized Greg Sadetsky’s mapping tools on more than 700 missions that resulted in the rescue of more than 1,700 people.
 
 **Alphabet’s project Loon**: 100 000 people in Puerto Rico were provided cellular service following Hurricane Maria. The project provides cell service to remote areas via weather balloons, which use machine learning technology to assess wind patterns and navigate.
@@ -139,7 +165,7 @@ Some of the Do-Good software companies I could find.
 ## Homeless
 **Solar-powered tent**: Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
 
-## Crime prevention
+## Crime Prevention
 **Ring**: 50% drop in neighborhood crimes thanks to the smart doorbells like Ring (according to an LAPD conducted study).
 
 **Humanitarian Open Street Map**: Open, free map data for humanitarian aid and development.
@@ -157,18 +183,18 @@ Some of the Do-Good software companies I could find.
 
 **Botler AI (MTL)**: Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
 
-## Economic development
+## Economic Development
 
-## Increase in yields
+## Increase In Yields
 
-## Better inventory management
+## Better Inventory Management
 
-## Reduction of losses and manufacturing defects
+## Reduction Of Losses And Manufacturing Defects
 
-## Increase in profits
+## Increase In Profits
 - 20% growth in number of shopping app downloads in the first half of 2017, compared to the first half of 2016.
 
-## Help for small businesses
+## Help Small Businesses
 **Etsy**: Helping craftsman thrive. Etsy is an e-commerce website focused on handmade or vintage items, as well as art and craft supplies.
 
 **LightSpeed (MTL)**: This cutting-edge retail platform makes sales and manages your store, with integrated inventory management, customer management, on-demand reporting, and eCommerce.
