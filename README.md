@@ -12,7 +12,6 @@ Some of the Do-Good software companies I could find.
 * [Social Development](#social-development)
 * [Reduction Of Accidents At Work](#reduction-of-accidents-at-work)
 * [Preservation Of The Autonomy In The Aging Population](#preservation-of-the-autonomy-in-the-aging-population)
-* [Contribution And Protection Of Diversity In Technology: Diversity Of Opinion, Gender, Language …](#contribution-and-protection-of-diversity-in-technology:-diversity-of-opinion,-gender,-language-…)
 * [Feeding The Poor](#feeding-the-poor)
 * [Social Changes](#social-changes)
 * [Fund Raising](#fund-raising)
@@ -62,8 +61,6 @@ Some of the Do-Good software companies I could find.
 ## Reduction Of Accidents At Work
 
 ## Preservation Of The Autonomy In The Aging Population
-
-## Contribution And Protection Of Diversity In Technology: Diversity Of Opinion, Gender, Language …
 
 ## Feeding The Poor
 **Rescuing Leftover Cuisine**: Helping the hungry by rescuing and donating leftover food to homeless shelters.
