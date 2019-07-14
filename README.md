@@ -3,6 +3,8 @@ A curated list of the Do-Good software companies I could find.
 
 # Human side of the software
 
+![Peace Sign](peace.PNG)
+
 ## Table of Contents
 * [Application Areas](#application-areas)
   * [Better Management Of Natural Resources](#better-management-of-natural-resources)
