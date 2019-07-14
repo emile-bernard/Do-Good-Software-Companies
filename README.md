@@ -4,8 +4,8 @@ Some of the Do-Good software companies I could find.
 # Human side of the software
 
 ## Table of Contents
-* [Application areas](#application areas)
-* [Environmental Protection](#environmental protection)
+* [Application areas](#application-areas)
+* [Environmental Protection](#environmental-protection)
 
 
 ## Application areas
