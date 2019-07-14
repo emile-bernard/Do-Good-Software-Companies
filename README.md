@@ -205,14 +205,9 @@ A curated list of the Do-Good software companies I could find.
 
 
 ## Links
-- 8  Surprising Ways Computer Science Benefits Society [2018 & Beyond], https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/
-- 17 Ways Software Made the World a Better Place in 2017, https://www.capterra.com/infographics/17-ways-software-made-world-better-place
-- A selection of projects, organisations and useful tools for social-impact tech. https://github.com/TechforgoodCAST/awesome-techforgood
-- Blue Ridge Labs, New York, NY - incubator for tech for good ventures in NYC. https://labs.robinhood.org/alumni/
-- Liberte Living Lab, Paris, France - collaborative workspace for tech, civic and social innovation.
-https://www.liberte.paris/projetsia
-- Top 25 Ideas https://www.govtech.com/local/25-Tech-Ideas-that-Might-Solve-a-Community-Problem-.html
-
-
-
-
+- [8  Surprising Ways Computer Science Benefits Society [2018 & Beyond]](https://www.rasmussen.edu/degrees/technology/blog/ways-computer-science-benefits-society/)
+- [17 Ways Software Made the World a Better Place in 2017](https://www.capterra.com/infographics/17-ways-software-made-world-better-place)
+- [A selection of projects, organisations and useful tools for social-impact tech](https://github.com/TechforgoodCAST/awesome-techforgood)
+- [Blue Ridge Labs, New York, NY - incubator for tech for good ventures in NYC](https://labs.robinhood.org/alumni/)
+- [Liberte Living Lab, Paris, France - collaborative workspace for tech, civic and social innovation](https://www.liberte.paris/projetsia)
+- [Top 25 Ideas](https://www.govtech.com/local/25-Tech-Ideas-that-Might-Solve-a-Community-Problem-.html)
