@@ -50,7 +50,7 @@ A curated list of the Do-Good software companies I could find.
 ## Environmental Protection
 [**RocketOwl**](): Planting real trees for virtual achievements. RocketOwl built a game called GreenSpace. When players reach certain milestones in the game, RocketOwl plants real trees in the real world.
 
-[**Nectar (MTL)**](): IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
+[**Nectar**](): IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
 
 ## Decrease In Energy Consumption
 [**Heat Seek**](): Heat Seek sensors let you quickly and easily document the temperature in your home.
@@ -92,7 +92,7 @@ A curated list of the Do-Good software companies I could find.
 
 [**Azavea**](): Maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
 
-[**OfficeVibe (MTL)**](): A simple way to measure employee satisfaction, while providing actionable tips for a better workplace. An innovative solution for boosting corporate growth!
+[**OfficeVibe**](): A simple way to measure employee satisfaction, while providing actionable tips for a better workplace. An innovative solution for boosting corporate growth!
 
 ## Health
 [**Open Bionics**](): Open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
@@ -105,9 +105,9 @@ A curated list of the Do-Good software companies I could find.
 
 [**eSight 3**](): A set of electronic glasses that can drastically improve a legally blind person's vision, helping them see and perform daily activities with ease.
 
-[**OM Signal (MTL)**](): Bio-sensing shirts that connect heart rate, breathing and activity data to users’ mobile devices in real time. Their latest collaboration is with Ralph Lauren and Concordia’s own Joanna Berzowska.
+[**OM Signal**](): Bio-sensing shirts that connect heart rate, breathing and activity data to users’ mobile devices in real time. Their latest collaboration is with Ralph Lauren and Concordia’s own Joanna Berzowska.
 
-[**Arctic Fox AI (MTL)**](): Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
+[**Arctic Fox AI**](): Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
 
 ## Mental Health
 [**Chayn DIY Online Safety Guide**](): Open source guide to help protect online accounts against harassment and stalkers.
@@ -120,7 +120,7 @@ A curated list of the Do-Good software companies I could find.
 [**Wiggle Room**](): Childcare shouldn’t be a sink-or-swim issue. Wiggle Room lets you capture, organize, and activate your trusted network of family and friends with the click of a button.
 
 ## Arts And Culture
-[**S.E.E.D. (MTL)**](): Using AI, art, and academia for art therapy.
+[**S.E.E.D.**](): Using AI, art, and academia for art therapy.
 
 ## Education
 [**Upcheive**](): Free homework help and college advice.
@@ -133,7 +133,7 @@ A curated list of the Do-Good software companies I could find.
 
 [**RefugeeEd.Hub**](): An open source online database that promotes promising practice in refugee education globally.
 
-[**GradeSlam (MTL)**](): Instant tutoring from world-class tutors who are real people. The online learning platform matches tutors and students, sort of like a “Khan Academy” — but with thousands of Khans!
+[**GradeSlam**](): Instant tutoring from world-class tutors who are real people. The online learning platform matches tutors and students, sort of like a “Khan Academy” — but with thousands of Khans!
 
 [**SchoolX**](): A shared economy model with volunteer teachers which include university students, educated refugees, retired teachers and other local volunteers, who will teach refugee students.
 
@@ -181,7 +181,7 @@ A curated list of the Do-Good software companies I could find.
 
 [**DoNotPay**](): Offers users free legal aid for a range of issues, including helping refugees apply for asylum, guiding people in reporting harassment at work, and even aiding everyday consumers who want to fight corporations who try to take advantage of them.
 
-[**Botler AI (MTL)**](): Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
+[**Botler AI**](): Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
 
 ## Economic Development
 
@@ -197,7 +197,7 @@ A curated list of the Do-Good software companies I could find.
 ## Help Small Businesses
 [**Etsy**](): Helping craftsman thrive. Etsy is an e-commerce website focused on handmade or vintage items, as well as art and craft supplies.
 
-[**LightSpeed (MTL)**](): This cutting-edge retail platform makes sales and manages your store, with integrated inventory management, customer management, on-demand reporting, and eCommerce.
+[**LightSpeed**](): This cutting-edge retail platform makes sales and manages your store, with integrated inventory management, customer management, on-demand reporting, and eCommerce.
 
 ## Bankruptcy
 [**Bankruptcy**](): Can relieve your debt. Nonprofit helps you file for bankruptcy for free, guiding you every step of the way.
