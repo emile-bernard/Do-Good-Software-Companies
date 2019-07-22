@@ -146,42 +146,42 @@ A curated list of the Do-Good software companies I could find.
 [**Alphabet’s project Loon**](): 100 000 people in Puerto Rico were provided cellular service following Hurricane Maria. The project provides cell service to remote areas via weather balloons, which use machine learning technology to assess wind patterns and navigate.
 
 ## Refugees
-[**Tarjimly**](): A Facebook translation bot that connects refugees with volunteer translators, wherever they are in the world.
+[**Tarjimly**](https://www.tarjim.ly/fr): A Facebook translation bot that connects refugees with volunteer translators, wherever they are in the world.
 
-[**Notifica**](): The Notifica app helps undocumented immigrants who get detained or caught up in raids to send out secure messages to a designated support network of family and friends.
+[**Notifica**](https://notifica.us/): The Notifica app helps undocumented immigrants who get detained or caught up in raids to send out secure messages to a designated support network of family and friends.
 
-[**RefAid**](): An app that connects refugees with nearby services in education, health, legal aid, shelter and more by using their location.
+[**RefAid**](https://refaid.com/): An app that connects refugees with nearby services in education, health, legal aid, shelter and more by using their location.
 
-[**Refugees Are**](): A platform to analyze news published globally around refugees, display their daily struggles as mentioned in the news and highlight sources of negative narrative.
+[**Refugees Are**](http://refugeesare.info/): A platform to analyze news published globally around refugees, display their daily struggles as mentioned in the news and highlight sources of negative narrative.
 
-[**PowerCoders**](): Over 68.5 million refugees in the world. Millions of vacant IT jobs due to digitalization. Two problems, one solution: A coding academy for refugees.
+[**PowerCoders**](https://powercoders.org/): Over 68.5 million refugees in the world. Millions of vacant IT jobs due to digitalization. Two problems, one solution: A coding academy for refugees.
 
-[**Iryo**](): Until now, medical workers in camps used Excel spreadsheets to make notes about patients. On top of that, medical workforce turnover is high, bringing additional confusion and inconsistency to Excel records.
+[**Iryo**](https://iryo.io/#intro): Until now, medical workers in camps used Excel spreadsheets to make notes about patients. On top of that, medical workforce turnover is high, bringing additional confusion and inconsistency to Excel records.
 
-[**Human in the Loop**](): A social enterprise which employs and trains refugees to provide image annotation services to computer vision companies.
+[**Humans in the Loop**](https://humansintheloop.org/): A social enterprise which employs and trains refugees to provide image annotation services to computer vision companies.
 
-[**Rafiqi**](): A matching tool that leverages artificial intelligence to connect refugees in real-time and in a customized way to the opportunities that are the most suitable to his/her profile and that would lead to lifelong employment.
+[**Rafiqi**](https://www.rafiqi.net/?source=post_page---------------------------): A matching tool that leverages artificial intelligence to connect refugees in real-time and in a customized way to the opportunities that are the most suitable to his/her profile and that would lead to lifelong employment.
 
 ## Homeless
-[**Solar-powered tent**](): Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
+[**Solar-powered tent**](https://mashable.com/2017/06/15/diy-girls-solar-powered-tent-homeless/): Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
 
 ## Crime Prevention
-[**Ring**](): 50% drop in neighborhood crimes thanks to the smart doorbells like Ring (according to an LAPD conducted study).
+[**Ring**](https://apps.apple.com/ca/app/ring-always-home/id926252661): 50% drop in neighborhood crimes thanks to the smart doorbells like Ring (according to an LAPD conducted study).
 
-[**Humanitarian Open Street Map**](): Open, free map data for humanitarian aid and development.
+[**Humanitarian Open Street Map**](https://www.hotosm.org/): Open, free map data for humanitarian aid and development.
 
-[**i-Cut**](): Female genital mutilation (FGM) affects millions of women and girls around the world. In Kenya, where the procedure is illegal but still practiced due to cultural significance, a group of five teen girls  created the i-Cut app to fight back. i-Cut allows users to alert authorities as a preventive measure, and also lets survivors send reports and find local rescue centers.
+[**i-Cut**](https://www.cnn.com/2017/07/28/africa/kenyan-girls-fgm-app/index.html): Female genital mutilation (FGM) affects millions of women and girls around the world. In Kenya, where the procedure is illegal but still practiced due to cultural significance, a group of five teen girls  created the i-Cut app to fight back. i-Cut allows users to alert authorities as a preventive measure, and also lets survivors send reports and find local rescue centers.
 
 ## Legal
-[**Community Lawyer**](): Build, Share, and Discover Legal Apps.
+[**Community Lawyer**](https://community.lawyer/): Build, Share, and Discover Legal Apps.
 
-[**Good Call**](): In case of an arrest, talk to a free lawyer right away. Add your emergency contacts to our directory so you can reach them too.
+[**Good Call**](https://goodcall.nyc/): In case of an arrest, talk to a free lawyer right away. Add your emergency contacts to our directory so you can reach them too.
 
-[**Bail Bloc**](): Created by a team at The New Inquiry, uses your computer's spare power to help contribute to community bail funds, assisting people in jail and their families who can't afford bail.  
+[**Bail Bloc**](https://bailbloc.thenewinquiry.com/): Created by a team at The New Inquiry, uses your computer's spare power to help contribute to community bail funds, assisting people in jail and their families who can't afford bail.  
 
-[**DoNotPay**](): Offers users free legal aid for a range of issues, including helping refugees apply for asylum, guiding people in reporting harassment at work, and even aiding everyday consumers who want to fight corporations who try to take advantage of them.
+[**DoNotPay**](https://apps.apple.com/app/id1427999657): Offers users free legal aid for a range of issues, including helping refugees apply for asylum, guiding people in reporting harassment at work, and even aiding everyday consumers who want to fight corporations who try to take advantage of them.
 
-[**Botler AI**](): Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
+[**Botler AI**](https://botler.ai/): Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
 
 ## Economic Development
 
@@ -195,15 +195,15 @@ A curated list of the Do-Good software companies I could find.
 - 20% growth in number of shopping app downloads in the first half of 2017, compared to the first half of 2016.
 
 ## Help Small Businesses
-[**Etsy**](): Helping craftsman thrive. Etsy is an e-commerce website focused on handmade or vintage items, as well as art and craft supplies.
+[**Etsy**](https://www.etsy.com): Helping craftsman thrive. Etsy is an e-commerce website focused on handmade or vintage items, as well as art and craft supplies.
 
-[**LightSpeed**](): This cutting-edge retail platform makes sales and manages your store, with integrated inventory management, customer management, on-demand reporting, and eCommerce.
+[**LightSpeed**](https://www.lightspeedhq.com/): This cutting-edge retail platform makes sales and manages your store, with integrated inventory management, customer management, on-demand reporting, and eCommerce.
 
 ## Bankruptcy
-[**Bankruptcy**](): Can relieve your debt. Nonprofit helps you file for bankruptcy for free, guiding you every step of the way.
+[**Upsolve**](https://upsolve.org/): Can relieve your debt. Nonprofit helps you file for bankruptcy for free, guiding you every step of the way.
 
 ## Hiring
-[**Skillist**](): A more effective and inclusive way to hire.
+[**Skillist**](https://skillist.co/): A more effective and inclusive way to hire.
 
 
 ## Links
