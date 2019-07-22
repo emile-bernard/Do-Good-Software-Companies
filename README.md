@@ -99,51 +99,51 @@ A curated list of the Do-Good software companies I could find.
 
 [**Wayfindr**](https://www.wayfindr.net/): Open standard of audio navigation for vision impaired people (+ demo iOS app).
 
-[**Paperfuge**](): This paper device, which only costs 20 cents to make, can help scientists and doctors diagnose diseases like malaria and HIV within minutes — no electricity required.
+[**Paperfuge**](https://www.wired.com/2017/01/paperfuge-20-cent-device-transform-health-care/): This paper device, which only costs 20 cents to make, can help scientists and doctors diagnose diseases like malaria and HIV within minutes — no electricity required.
 
-[**Soft robot sleeve**](): Researchers at Harvard University and Boston Children’s Hospital created this customizable soft robot sleeve that can wrap around a failing heart and squeeze it, allowing blood to keep flowing throughout the body.
+[**Soft robot sleeve**](https://www.seas.harvard.edu/news/2017/01/soft-robot-helps-heart-beat): Researchers at Harvard University and Boston Children’s Hospital created this customizable soft robot sleeve that can wrap around a failing heart and squeeze it, allowing blood to keep flowing throughout the body.
 
-[**eSight 3**](): A set of electronic glasses that can drastically improve a legally blind person's vision, helping them see and perform daily activities with ease.
+[**eSight 3**](https://www.esighteyewear.com/homex): A set of electronic glasses that can drastically improve a legally blind person's vision, helping them see and perform daily activities with ease.
 
-[**OM Signal**](): Bio-sensing shirts that connect heart rate, breathing and activity data to users’ mobile devices in real time. Their latest collaboration is with Ralph Lauren and Concordia’s own Joanna Berzowska.
+[**OM Signal**](https://www.facebook.com/OMsignal/): Bio-sensing shirts that connect heart rate, breathing and activity data to users’ mobile devices in real time. Their latest collaboration is with Ralph Lauren and Concordia’s own Joanna Berzowska.
 
-[**Arctic Fox AI**](): Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
+[**Arctic Fox AI**](https://www.arcticfox.ai/accueil): Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
 
 ## Mental Health
 [**Chayn DIY Online Safety Guide**](): Open source guide to help protect online accounts against harassment and stalkers.
 
-[**Woebot**](): Woebot is one of the first chatbots of its kind, using artificial intelligence to talk to you, help improve your mood, and even alleviate symptoms of depression.
+[**Woebot**](https://woebot.io/): Woebot is one of the first chatbots of its kind, using artificial intelligence to talk to you, help improve your mood, and even alleviate symptoms of depression.
 
 - 70 companies in Japan have adopted mental health monitoring software to gauge employee well-being.
 
 ## Childcare
-[**Wiggle Room**](): Childcare shouldn’t be a sink-or-swim issue. Wiggle Room lets you capture, organize, and activate your trusted network of family and friends with the click of a button.
+[**Wiggle Room**](https://www.wiggleroomnow.com/): Childcare shouldn’t be a sink-or-swim issue. Wiggle Room lets you capture, organize, and activate your trusted network of family and friends with the click of a button.
 
 ## Arts And Culture
-[**S.E.E.D.**](): Using AI, art, and academia for art therapy.
+[**S.E.E.D.**](http://www.montrealintechnology.com/how-s-e-e-d-is-using-ai-art-and-academia-for-art-therapy/): Using AI, art, and academia for art therapy.
 
 ## Education
-[**Upcheive**](): Free homework help and college advice.
+[**Upcheive**](https://upchieve.org/): Free homework help and college advice.
 
-[**Cognitive ToyBox**](): Game-based assessment platform for early childhood.
+[**Cognitive ToyBox**](https://www.cognitivetoybox.com/): Game-based assessment platform for early childhood.
 
-[**WikiHouse**](): An open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
+[**WikiHouse**](https://www.wikihouse.cc/): An open-source, collaborative R&D project to bring about a digital revolution in the way we make homes.
 
-[**Paper Airplanes (PA)**](): A nonprofit that uses video conferencing technology to provide free, peer-to-peer language and professional skills instruction to young adults and teens affected by conflict in the Middle East and North Africa.
+[**Paper Airplanes (PA)**](https://www.paper-airplanes.org/): A nonprofit that uses video conferencing technology to provide free, peer-to-peer language and professional skills instruction to young adults and teens affected by conflict in the Middle East and North Africa.
 
-[**RefugeeEd.Hub**](): An open source online database that promotes promising practice in refugee education globally.
+[**RefugeeEd.Hub**](https://refugeehub.ca/): An open source online database that promotes promising practice in refugee education globally.
 
-[**GradeSlam**](): Instant tutoring from world-class tutors who are real people. The online learning platform matches tutors and students, sort of like a “Khan Academy” — but with thousands of Khans!
+[**GradeSlam**](https://gradeslam.org/): Instant tutoring from world-class tutors who are real people. The online learning platform matches tutors and students, sort of like a “Khan Academy” — but with thousands of Khans!
 
-[**SchoolX**](): A shared economy model with volunteer teachers which include university students, educated refugees, retired teachers and other local volunteers, who will teach refugee students.
+[**SchoolX**](https://schoolx.co/): A shared economy model with volunteer teachers which include university students, educated refugees, retired teachers and other local volunteers, who will teach refugee students.
 
 - 23% of the US population has used 16+ free tech resources at a local library.
 - 15B downloads of education apps from the Apple Store recorded, allowing users to learn from their personal devices.
 
 ## Disaster Assistance
-[**Sadetsky’s map**](): A Hacker Helped The Coast Guard Rescue Victims Of Hurricane Harvey. Coast Guard utilized Greg Sadetsky’s mapping tools on more than 700 missions that resulted in the rescue of more than 1,700 people.
+[**Sadetsky’s map**](https://www.fastcompany.com/40475242/how-a-hacker-helped-the-coast-guard-rescue-victims-of-hurricane-harvey?utm_content=bufferf807e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): A Hacker Helped The Coast Guard Rescue Victims Of Hurricane Harvey. Coast Guard utilized Greg Sadetsky’s mapping tools on more than 700 missions that resulted in the rescue of more than 1,700 people.
 
-[**Alphabet’s project Loon**](): 100 000 people in Puerto Rico were provided cellular service following Hurricane Maria. The project provides cell service to remote areas via weather balloons, which use machine learning technology to assess wind patterns and navigate.
+[**Alphabet’s project Loon**](https://loon.com/): 100 000 people in Puerto Rico were provided cellular service following Hurricane Maria. The project provides cell service to remote areas via weather balloons, which use machine learning technology to assess wind patterns and navigate.
 
 ## Refugees
 [**Tarjimly**](https://www.tarjim.ly/fr): A Facebook translation bot that connects refugees with volunteer translators, wherever they are in the world.
