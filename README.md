@@ -45,15 +45,15 @@ A curated list of the Do-Good software companies I could find.
 ## Pollution Reduction
 [**Rally Software**](): Greening up the IT industry. Rally wants to become a model in making the IT industry be greener. It is benchmarking its "waste per employee" to compare to other companies and industries.
 
-[**Airinov**](): The drone to optimize fertilizers.
+[**Airinov**](http://airinov.fr/): The drone to optimize fertilizers.
 
 ## Environmental Protection
-[**RocketOwl**](): Planting real trees for virtual achievements. RocketOwl built a game called GreenSpace. When players reach certain milestones in the game, RocketOwl plants real trees in the real world.
+[**RocketOwl**](http://www.rocketowl.com/): Planting real trees for virtual achievements. RocketOwl built a game called GreenSpace. When players reach certain milestones in the game, RocketOwl plants real trees in the real world.
 
-[**Nectar**](): IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
+[**Nectar**](https://nectar.buzz/): IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
 
 ## Decrease In Energy Consumption
-[**Heat Seek**](): Heat Seek sensors let you quickly and easily document the temperature in your home.
+[**Heat Seek**](https://heatseek.org/): Heat Seek sensors let you quickly and easily document the temperature in your home.
 
 - 750 000 homeowners saved power during the 2017 Solar Eclipse, thanks to the increased availability of smart thermostats like Nest, which reduced energy demand by 700MW.
 
@@ -65,39 +65,39 @@ A curated list of the Do-Good software companies I could find.
 ## Preservation Of The Autonomy In The Aging Population
 
 ## Feeding The Poor
-[**Rescuing Leftover Cuisine**](): Helping the hungry by rescuing and donating leftover food to homeless shelters.
+[**Rescuing Leftover Cuisine**](https://www.rescuingleftovercuisine.org/): Helping the hungry by rescuing and donating leftover food to homeless shelters.
 
-[**Propel**](): Food stamps, a $70 billion program that reaches 45 million Americans.
+[**Propel**](https://www.joinpropel.com/): Food stamps, a $70 billion program that reaches 45 million Americans.
 
 ## Social Changes
-[**Change.org**](): Serious work with Internet petitions. Change.org is an Internet petition platform.
+[**Change.org**](https://www.change.org/): Serious work with Internet petitions. Change.org is an Internet petition platform.
 
-[**Smart Elect**](): SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
+[**Smart Elect**](http://smartelect.com/): SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
 
-[**Tech for Good Global**](): Shining a light on the people & technology making our world better.
+[**Tech for Good Global**](http://www.techforgood.global/): Shining a light on the people & technology making our world better.
 
-[**The Toolbox**](): Curated list of digital tools for humanitarian work.
+[**The Toolbox**](http://www.thetoolbox.org/): Curated list of digital tools for humanitarian work.
 
 ## Fund Raising
-[**NetworkForGood**](): Reach your fundraising goals with a powerful, all-in-one donor management and fundraising platform.
+[**NetworkForGood**](https://www.networkforgood.com/): Reach your fundraising goals with a powerful, all-in-one donor management and fundraising platform.
 
 - 62% of donors in North America prefer to donate money online compared to other methods.
 
-[**ChangeIt**](): Making giving as easy as spending. ChangeIt is a mobile app that lets people automatically give to charity every time they use their smartphone to pay for something.
+[**ChangeIt**](https://nick0570.wixsite.com/mysite): Making giving as easy as spending. ChangeIt is a mobile app that lets people automatically give to charity every time they use their smartphone to pay for something.
 
-[**CharityBase**](): A comprehensive database of 350,000 charities + an open source API.
+[**CharityBase**](https://charitybase.uk/): A comprehensive database of 350,000 charities + an open source API.
 
 ## Social Benefits
-[**Audacious Inquiry**](): Coding for social welfare. Audacious only takes on projects that help others, such as projects that involve health care, promote the arts, and improve education.
+[**Audacious Inquiry**](http://ainq.com/): Coding for social welfare. Audacious only takes on projects that help others, such as projects that involve health care, promote the arts, and improve education.
 
-[**Azavea**](): Maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
+[**Azavea**](https://www.azavea.com/): Maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
 
-[**OfficeVibe**](): A simple way to measure employee satisfaction, while providing actionable tips for a better workplace. An innovative solution for boosting corporate growth!
+[**OfficeVibe**](https://www.officevibe.com/): A simple way to measure employee satisfaction, while providing actionable tips for a better workplace. An innovative solution for boosting corporate growth!
 
 ## Health
-[**Open Bionics**](): Open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
+[**Open Bionics**](https://openbionics.com/): Open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 
-[**Wayfindr**](): Open standard of audio navigation for vision impaired people (+ demo iOS app).
+[**Wayfindr**](https://www.wayfindr.net/): Open standard of audio navigation for vision impaired people (+ demo iOS app).
 
 [**Paperfuge**](): This paper device, which only costs 20 cents to make, can help scientists and doctors diagnose diseases like malaria and HIV within minutes — no electricity required.
 
