@@ -1,5 +1,5 @@
 # Do-Good-Software-Companies
-A curated list of the Do-Good software companies I could find.
+:earth_americas: A curated list of the Do-Good software companies I could find.
 
 # Human side of the software
 
