@@ -7,11 +7,11 @@
 
 ## Table of Contents
 * [Application Areas](#application-areas)
-  * [Better Management Of Natural Resources](#better-management-of-natural-resources)
+  * [Better Management Of Natural Resources](#better-management-of-natural-resources) :herb:
     * [Pollution Reduction](#pollution-reduction)
     * [Environmental Protection](#environmental-protection)
     * [Decrease In Energy Consumption](#decrease-in-energy-consumption)
-  * [Social Development](#social-development)
+  * [Social Development](#social-development) :hammer:
     * [Reduction Of Accidents At Work](#reduction-of-accidents-at-work)
     * [Preservation Of The Autonomy In The Aging Population](#preservation-of-the-autonomy-in-the-aging-population)
     * [Feeding The Poor](#feeding-the-poor)
@@ -28,7 +28,7 @@
     * [Homeless](#homeless)
     * [Crime Prevention](#crime-prevention)
     * [Legal](#legal)
-  * [Economic Development](#economic-development)
+  * [Economic Development](#economic-development) :moneybag:
     * [Increase In Yields](#increase-in-yields)
     * [Better Inventory Management](#better-inventory-management)
     * [Reduction Of Losses And Manufacturing Defects](#reduction-of-losses-and-manufacturing-defects)
@@ -40,7 +40,7 @@
 
 ## Application Areas
 
-## Better Management Of Natural Resources
+## Better Management Of Natural Resources :herb:
 
 ## Pollution Reduction
 [**Rally Software**](): Greening up the IT industry. Rally wants to become a model in making the IT industry be greener. It is benchmarking its "waste per employee" to compare to other companies and industries.
@@ -58,7 +58,7 @@
 - 750 000 homeowners saved power during the 2017 Solar Eclipse, thanks to the increased availability of smart thermostats like Nest, which reduced energy demand by 700MW.
 
 
-## Social Development
+## Social Development :hammer:
 
 ## Reduction Of Accidents At Work
 
@@ -183,7 +183,7 @@
 
 [**Botler AI**](https://botler.ai/): Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
 
-## Economic Development
+## Economic Development :moneybag:
 
 ## Increase In Yields
 
