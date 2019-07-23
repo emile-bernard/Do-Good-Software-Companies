@@ -165,7 +165,7 @@
 ### Homeless
 [**Solar-powered tent**](https://mashable.com/2017/06/15/diy-girls-solar-powered-tent-homeless/): Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
 
-## Crime Prevention
+### Crime Prevention
 [**Ring**](https://apps.apple.com/ca/app/ring-always-home/id926252661): 50% drop in neighborhood crimes thanks to the smart doorbells like Ring (according to an LAPD conducted study).
 
 [**Humanitarian Open Street Map**](https://www.hotosm.org/): Open, free map data for humanitarian aid and development.
