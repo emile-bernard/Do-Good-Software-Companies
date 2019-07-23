@@ -59,10 +59,10 @@
 
 
 ## Social Development :hammer:
-
+<!---
 ## Reduction Of Accidents At Work
-
 ## Preservation Of The Autonomy In The Aging Population
+-->
 
 ## Feeding The Poor
 [**Rescuing Leftover Cuisine**](https://www.rescuingleftovercuisine.org/): Helping the hungry by rescuing and donating leftover food to homeless shelters.
@@ -184,12 +184,11 @@
 [**Botler AI**](https://botler.ai/): Prevent & fight sexual misconduct. Botler AI's multi-pronged approach implements a solution that helps firms meet regulatory compliance requirements, at a minimal cost.
 
 ## Economic Development :moneybag:
-
+<!---
 ## Increase In Yields
-
 ## Better Inventory Management
-
 ## Reduction Of Losses And Manufacturing Defects
+-->
 
 ## Increase In Profits
 - 20% growth in number of shopping app downloads in the first half of 2017, compared to the first half of 2016.
