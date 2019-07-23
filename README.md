@@ -42,17 +42,17 @@
 
 ## Better Management Of Natural Resources :herb:
 
-## Pollution Reduction
+### Pollution Reduction
 [**Rally Software**](): Greening up the IT industry. Rally wants to become a model in making the IT industry be greener. It is benchmarking its "waste per employee" to compare to other companies and industries.
 
 [**Airinov**](http://airinov.fr/): The drone to optimize fertilizers.
 
-## Environmental Protection
+### Environmental Protection
 [**RocketOwl**](http://www.rocketowl.com/): Planting real trees for virtual achievements. RocketOwl built a game called GreenSpace. When players reach certain milestones in the game, RocketOwl plants real trees in the real world.
 
 [**Nectar**](https://nectar.buzz/): IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
 
-## Decrease In Energy Consumption
+### Decrease In Energy Consumption
 [**Heat Seek**](https://heatseek.org/): Heat Seek sensors let you quickly and easily document the temperature in your home.
 
 - 750 000 homeowners saved power during the 2017 Solar Eclipse, thanks to the increased availability of smart thermostats like Nest, which reduced energy demand by 700MW.
@@ -64,12 +64,12 @@
 ## Preservation Of The Autonomy In The Aging Population
 -->
 
-## Feeding The Poor
+### Feeding The Poor
 [**Rescuing Leftover Cuisine**](https://www.rescuingleftovercuisine.org/): Helping the hungry by rescuing and donating leftover food to homeless shelters.
 
 [**Propel**](https://www.joinpropel.com/): Food stamps, a $70 billion program that reaches 45 million Americans.
 
-## Social Changes
+### Social Changes
 [**Change.org**](https://www.change.org/): Serious work with Internet petitions. Change.org is an Internet petition platform.
 
 [**Smart Elect**](http://smartelect.com/): SMS voter registration, plus web and mobile tools that improve data accuracy, transparency, and visual reporting across the elections process.
@@ -78,7 +78,7 @@
 
 [**The Toolbox**](http://www.thetoolbox.org/): Curated list of digital tools for humanitarian work.
 
-## Fund Raising
+### Fund Raising
 [**NetworkForGood**](https://www.networkforgood.com/): Reach your fundraising goals with a powerful, all-in-one donor management and fundraising platform.
 
 - 62% of donors in North America prefer to donate money online compared to other methods.
@@ -87,14 +87,14 @@
 
 [**CharityBase**](https://charitybase.uk/): A comprehensive database of 350,000 charities + an open source API.
 
-## Social Benefits
+### Social Benefits
 [**Audacious Inquiry**](http://ainq.com/): Coding for social welfare. Audacious only takes on projects that help others, such as projects that involve health care, promote the arts, and improve education.
 
 [**Azavea**](https://www.azavea.com/): Maps that improve communities. It specializes in projects that for the social good like neighborhood revitalization, crime analysis, redistricting and political advocacy.
 
 [**OfficeVibe**](https://www.officevibe.com/): A simple way to measure employee satisfaction, while providing actionable tips for a better workplace. An innovative solution for boosting corporate growth!
 
-## Health
+### Health
 [**Open Bionics**](https://openbionics.com/): Open source initiative for the development of affordable, light-weight, modular robot and prosthetic hands.
 
 [**Wayfindr**](https://www.wayfindr.net/): Open standard of audio navigation for vision impaired people (+ demo iOS app).
@@ -109,20 +109,20 @@
 
 [**Arctic Fox AI**](https://www.arcticfox.ai/accueil): Uses deep-learning to diagnose neurodegenerative diseases like Alzheimer’s and dementia and identify the best treatment for patients based on several factors.
 
-## Mental Health
+### Mental Health
 [**Chayn DIY Online Safety Guide**](): Open source guide to help protect online accounts against harassment and stalkers.
 
 [**Woebot**](https://woebot.io/): Woebot is one of the first chatbots of its kind, using artificial intelligence to talk to you, help improve your mood, and even alleviate symptoms of depression.
 
 - 70 companies in Japan have adopted mental health monitoring software to gauge employee well-being.
 
-## Childcare
+### Childcare
 [**Wiggle Room**](https://www.wiggleroomnow.com/): Childcare shouldn’t be a sink-or-swim issue. Wiggle Room lets you capture, organize, and activate your trusted network of family and friends with the click of a button.
 
-## Arts And Culture
+### Arts And Culture
 [**S.E.E.D.**](http://www.montrealintechnology.com/how-s-e-e-d-is-using-ai-art-and-academia-for-art-therapy/): Using AI, art, and academia for art therapy.
 
-## Education
+### Education
 [**Upcheive**](https://upchieve.org/): Free homework help and college advice.
 
 [**Cognitive ToyBox**](https://www.cognitivetoybox.com/): Game-based assessment platform for early childhood.
@@ -140,12 +140,12 @@
 - 23% of the US population has used 16+ free tech resources at a local library.
 - 15B downloads of education apps from the Apple Store recorded, allowing users to learn from their personal devices.
 
-## Disaster Assistance
+### Disaster Assistance
 [**Sadetsky’s map**](https://www.fastcompany.com/40475242/how-a-hacker-helped-the-coast-guard-rescue-victims-of-hurricane-harvey?utm_content=bufferf807e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): A Hacker Helped The Coast Guard Rescue Victims Of Hurricane Harvey. Coast Guard utilized Greg Sadetsky’s mapping tools on more than 700 missions that resulted in the rescue of more than 1,700 people.
 
 [**Alphabet’s project Loon**](https://loon.com/): 100 000 people in Puerto Rico were provided cellular service following Hurricane Maria. The project provides cell service to remote areas via weather balloons, which use machine learning technology to assess wind patterns and navigate.
 
-## Refugees
+### Refugees
 [**Tarjimly**](https://www.tarjim.ly/fr): A Facebook translation bot that connects refugees with volunteer translators, wherever they are in the world.
 
 [**Notifica**](https://notifica.us/): The Notifica app helps undocumented immigrants who get detained or caught up in raids to send out secure messages to a designated support network of family and friends.
@@ -162,7 +162,7 @@
 
 [**Rafiqi**](https://www.rafiqi.net/?source=post_page---------------------------): A matching tool that leverages artificial intelligence to connect refugees in real-time and in a customized way to the opportunities that are the most suitable to his/her profile and that would lead to lifelong employment.
 
-## Homeless
+### Homeless
 [**Solar-powered tent**](https://mashable.com/2017/06/15/diy-girls-solar-powered-tent-homeless/): Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
 
 ## Crime Prevention
@@ -172,7 +172,7 @@
 
 [**i-Cut**](https://www.cnn.com/2017/07/28/africa/kenyan-girls-fgm-app/index.html): Female genital mutilation (FGM) affects millions of women and girls around the world. In Kenya, where the procedure is illegal but still practiced due to cultural significance, a group of five teen girls  created the i-Cut app to fight back. i-Cut allows users to alert authorities as a preventive measure, and also lets survivors send reports and find local rescue centers.
 
-## Legal
+### Legal
 [**Community Lawyer**](https://community.lawyer/): Build, Share, and Discover Legal Apps.
 
 [**Good Call**](https://goodcall.nyc/): In case of an arrest, talk to a free lawyer right away. Add your emergency contacts to our directory so you can reach them too.
@@ -190,18 +190,18 @@
 ## Reduction Of Losses And Manufacturing Defects
 -->
 
-## Increase In Profits
+### Increase In Profits
 - 20% growth in number of shopping app downloads in the first half of 2017, compared to the first half of 2016.
 
-## Help Small Businesses
+### Help Small Businesses
 [**Etsy**](https://www.etsy.com): Helping craftsman thrive. Etsy is an e-commerce website focused on handmade or vintage items, as well as art and craft supplies.
 
 [**LightSpeed**](https://www.lightspeedhq.com/): This cutting-edge retail platform makes sales and manages your store, with integrated inventory management, customer management, on-demand reporting, and eCommerce.
 
-## Bankruptcy
+### Bankruptcy
 [**Upsolve**](https://upsolve.org/): Can relieve your debt. Nonprofit helps you file for bankruptcy for free, guiding you every step of the way.
 
-## Hiring
+### Hiring
 [**Skillist**](https://skillist.co/): A more effective and inclusive way to hire.
 
 
