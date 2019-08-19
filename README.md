@@ -52,6 +52,8 @@
 
 [**Nectar**](https://nectar.buzz/): IoT solution for beekeepers will help them manage more hives, more efficiently, ensuring they lose less bees.
 
+[**Earth AI**](http://www.earth-ai.com/): A mineral targeting startup which is using AI to predict the location of new ore bodies far more cheaply, faster, and with more precision than previous methods.
+
 ### Decrease In Energy Consumption
 [**Heat Seek**](https://heatseek.org/): Heat Seek sensors let you quickly and easily document the temperature in your home.
 
