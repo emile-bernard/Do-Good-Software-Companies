@@ -26,6 +26,7 @@
     * [Disaster Assistance](#disaster-assistance)
     * [Refugees](#refugees)
     * [Homeless](#homeless)
+    * [Inmates](#inmates)
     * [Crime Prevention](#crime-prevention)
     * [Legal](#legal)
   * [Economic Development](#economic-development) :moneybag:
@@ -166,6 +167,13 @@
 
 ### Homeless
 [**Solar-powered tent**](https://mashable.com/2017/06/15/diy-girls-solar-powered-tent-homeless/): Earlier this year, 12 teens in San Fernando, California, joined forces with the nonprofit DIY Girls to invent a solar-powered tent that folds up into a rollaway backpack for homeless populations.
+
+### Inmates
+[**APDS**](https://apdscorporate.com/): Provide tablets that inmates can use for learning purposes.
+
+[**Pokket**](https://acivilate.com/): Helps inmates plan for life outside of prison.
+
+[**Prison Voicemail**](https://prisonvoicemail.com/): Provides a cheap phone service that families can pay.
 
 ### Crime Prevention
 [**Ring**](https://apps.apple.com/ca/app/ring-always-home/id926252661): 50% drop in neighborhood crimes thanks to the smart doorbells like Ring (according to an LAPD conducted study).
