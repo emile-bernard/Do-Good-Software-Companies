@@ -215,3 +215,4 @@
 - [Liberte Living Lab, Paris, France - collaborative workspace for tech, civic and social innovation](https://www.liberte.paris/projetsia)
 - [Top 25 Ideas](https://www.govtech.com/local/25-Tech-Ideas-that-Might-Solve-a-Community-Problem-.html)
 - [List of github markdown emoji](https://gist.github.com/rxaviers/7360908)
+- [Build products that improve the lives of inmates](https://techcrunch.com/2020/07/29/build-products-that-improve-the-lives-of-inmates/)
